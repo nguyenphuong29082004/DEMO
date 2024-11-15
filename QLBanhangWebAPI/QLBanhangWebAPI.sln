@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBanhangWebAPI", "QLBanhangWebAPI\QLBanhangWebAPI.csproj", "{48AD59F4-4474-40B5-A50C-88EBC888BE72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPI_frontend", "DemoAPI_frontend\DemoAPI_frontend.csproj", "{AC74EA12-716E-4D51-B9A5-47C2562079BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48AD59F4-4474-40B5-A50C-88EBC888BE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AD59F4-4474-40B5-A50C-88EBC888BE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AD59F4-4474-40B5-A50C-88EBC888BE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AD59F4-4474-40B5-A50C-88EBC888BE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC74EA12-716E-4D51-B9A5-47C2562079BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC74EA12-716E-4D51-B9A5-47C2562079BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC74EA12-716E-4D51-B9A5-47C2562079BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC74EA12-716E-4D51-B9A5-47C2562079BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB5EE8C6-4EFE-483D-B0FC-0C0089AE5C4A}
+	EndGlobalSection
+EndGlobal
